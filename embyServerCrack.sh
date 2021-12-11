@@ -11,7 +11,7 @@ CRACK_CONFIG=".config"
 
 EMBY_VERSION_FILE="lastversion.txt"
 DOCKER_EMBY_CONFIG_PATH="/config"
-DOCKER_EMBY_SYSTEM_PATH="/system"
+DOCKER_EMBY_SYSTEM_PATH="/app/emby"
 LINUX_EMBY_CONFIG_PATH="/var/lib/emby"
 LINUX_EMBY_SYSTEM_PATH="/opt/emby-server/system"
 PLATFORM_DOCKER="docker"
